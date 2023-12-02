@@ -1,0 +1,74 @@
+
+  ******  DRILL DATA LIST  ******
+
+                        Date/Time : Wed Mar 19 16:05:26 2014
+                        Host Name : "MONBAZILLAC"
+                        Directory : "D:\HOME"
+                        User Name : monbazillac
+
+                       <DRP> File : "C:\Users\MONBAZ~1\AppData\Local\Temp\param2.drp"
+                         Comments : ""
+
+                   <PNL/PCB> File : "L:\PROJETS\COVIDIEN\CN004-CPU\3_CAO_CR5000\GR106772-A.pcb"
+                  <MRL/MRDB> File : "l:\cr5000\feersc\cr5000\libfee\fee.mrdb"
+                    Drill Machine : "EXCELLON"
+
+                  Extended Format : Excellon
+                   Character Code : ASCII
+                    Record Format : Full Storage
+                    Record Length : 512
+                     NC Data Unit : Inch
+                Coordinate Format : 00V0000
+                       Round Unit : 0.00010
+        Coordinate Representation : Absolute
+                 Omit Coordinates : Off
+                    Zero Suppress : Trailing Zero Suppress
+ Coordinates during Tool Exchange : Clear
+                         EOB Code : LF
+                         EOR Code : SPACE
+                         ETB Code : SPACE
+                         PAD Code : SPACE
+
+                       <DRD> File : "L:\PROJETS\COVIDIEN\CN004-CPU\4_FAB\GR106772-A-PTH-per0.drd"
+                       <DRL> File : "L:\PROJETS\COVIDIEN\CN004-CPU\4_FAB\GR106772-A-PTH-per0.drl"
+
+                        List Unit : Millimeters
+
+                            Layer : Only through holes
+                Plating attribute : On
+                           Figure : Round/Slot
+             Way to output oblong : Sequential (Movement rate:0.20000)
+             Way to output square : ----------
+
+                           Origin : (   0.00000,   0.00000)
+                           Mirror : OFF
+                         Rotation : (   0)
+                            Scale : (   1.00000)
+                           Offset : (   0.00000,   0.00000)
+
+                       Drill Data : 
+ +-----+---------+-------+-------+-----------+-----+-------+---------+-------------+-------------+
+ | No. | T_code  | Kind  | Shape |    Size   | Type|Plating|   Hits  |     Move    |   MAX(X,Y)  |
+ +-----+---------+-------+-------+-----------+-----+-------+---------+-------------+-------------+
+ |   1 |T01      |Normal |Circle |   0.30480 |   0 |    On |     815 | 20893.61208 | 20490.39590 |
+ +-----+---------+-------+-------+-----------+-----+-------+---------+-------------+-------------+
+ |   2 |T02      |Normal |Circle |   0.81280 |   0 |    On |      16 |    83.68140 |    81.18094 |
+ +-----+---------+-------+-------+-----------+-----+-------+---------+-------------+-------------+
+ |   3 |T03      |Normal |Circle |   0.91440 |   0 |    On |      36 |   356.11681 |   304.80000 |
+ +-----+---------+-------+-------+-----------+-----+-------+---------+-------------+-------------+
+ |   4 |T04      |Normal |Circle |   0.96520 |   0 |    On |      53 |  1071.40372 |   963.73696 |
+ +-----+---------+-------+-------+-----------+-----+-------+---------+-------------+-------------+
+ |   5 |T05      |Normal |Circle |   1.01600 |   0 |    On |       2 |   178.99119 |   149.22500 |
+ +-----+---------+-------+-------+-----------+-----+-------+---------+-------------+-------------+
+ |   6 |T06      |Normal |Circle |   1.11760 |   0 |    On |       6 |   138.24742 |   109.85500 |
+ +-----+---------+-------+-------+-----------+-----+-------+---------+-------------+-------------+
+ |   7 |T07      |Normal |Circle |   1.21920 |   0 |    On |       2 |   123.47378 |   122.53976 |
+ +-----+---------+-------+-------+-----------+-----+-------+---------+-------------+-------------+
+ |   8 |T08      |Normal |Circle |   1.32080 |   0 |    On |       2 |   101.47421 |    96.83750 |
+ +-----+---------+-------+-------+-----------+-----+-------+---------+-------------+-------------+
+ |   9 |T09      |Normal |Circle |   1.80340 |   0 |    On |      16 |   577.80876 |   512.10210 |
+ +-----+---------+-------+-------+-----------+-----+-------+---------+-------------+-------------+
+ |      Total                                              |     948 | 23524.80938 | 22830.67316 |
+ +---------------------------------------------------------+---------+-------------+-------------+
+
+                        Data Area : (   1.90500,   1.58750)-( 187.96000, 118.74500)
